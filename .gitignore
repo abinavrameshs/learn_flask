@@ -1,0 +1,20 @@
+# Eclipse
+*.jar
+Build/.classpath
+Build/.project
+Build/.settings/
+
+# Intellij
+Build/.idea/
+Build/*.iml
+Build/*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+Build/log/*
+Build/target/*
+Build/dependency-reduced-pom.xml
+venv
+__pycache__
