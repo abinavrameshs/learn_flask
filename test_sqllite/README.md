@@ -2,4 +2,4 @@
 
 To understand more about SQLLITE module in python, please use the below documentation 
 
-(SQLLITE Python)[https://www.pythoncentral.io/introduction-to-sqlite-in-python/]
+[SQLLITE Python](https://www.pythoncentral.io/introduction-to-sqlite-in-python/)
